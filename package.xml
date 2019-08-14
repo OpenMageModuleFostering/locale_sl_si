@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>locale_sl_si</name>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <stability>stable</stability>
     <license uri="https://github.com/symfony-si/magento1-sl-si/blob/master/LICENSE">OSL-3.0</license>
     <channel>community</channel>
@@ -11,7 +11,7 @@
     <notes>Slovenian translation files supporting Magento Community Editions up to 1.9.2.4. Administration, front end and TinyMCE editor translations.</notes>
     <authors><author><name>Peter Kokot</name><user>peterkokot</user><email>peterkokot@gmail.com</email></author></authors>
     <date>2016-04-21</date>
-    <time>01:38:33</time>
+    <time>19:40:46</time>
     <contents>
       <target name="magelocale">
         <dir name="sl_SI">
