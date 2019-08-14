@@ -1,0 +1,1 @@
+tinyMCE.addI18n("sl.autosave",{restore_content:"Povrni samodejno shranjeno vsebino",warning_message:"\u010ce povrnete shranjeno vsebino, boste izgubili vso vsebino, ki je trenutno v urejevalniku.\n\nAli ste prepri\u010dani, da \u017eelite povrniti shranjeno vsebino?"});

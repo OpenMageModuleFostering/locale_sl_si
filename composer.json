@@ -1,9 +1,9 @@
 {
     "name": "OpenMageModuleFostering/locale_sl_si",
     "type": "magento-module",
-    "license": "MIT",
+    "license": "OSL-3.0",
     "homepage": "",
-    "description": "Slovenian translations",
+    "description": "Slovenian Translations",
     "authors": [
     {
         "name": "Peter Kokot",
