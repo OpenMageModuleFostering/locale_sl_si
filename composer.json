@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/locale_sl_si",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "",
+    "description": "Slovenian translations",
+    "authors": [
+    {
+        "name": "Peter Kokot",
+        "email": "peterkokot@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
