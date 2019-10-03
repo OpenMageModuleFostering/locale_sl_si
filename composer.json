@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/locale_sl_si",
+    "name": "OpenMageModuleFostering\/locale_sl_si",
     "type": "magento-module",
     "license": "OSL-3.0",
     "homepage": "",
     "description": "Slovenian Translations",
     "authors": [
-    {
-        "name": "Peter Kokot",
-        "email": "peterkokot@gmail.com"
-    }
-],
+        {
+            "name": "Peter Kokot",
+            "email": "peterkokot@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
